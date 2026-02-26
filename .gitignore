@@ -4,3 +4,8 @@ __pycache__/
 *.pyo
 *.swp
 .DS_Store
+backups/
+*.env
+.env*
+*.pem
+*.key
